@@ -1,0 +1,16 @@
+supermarket7Rmart\LoginSuperMarket.class
+supermarket7Rmart\ManageFooterText_Page.class
+supermarket7Rmart\Home_Page.class
+utilities\ScreenshotUtility.class
+utilities\ExtendReportUtility.class
+supermarket7Rmart\ManageNews.class
+utilities\ExcelUtility.class
+utilities\FakeUtility.class
+utilities\PageUtility.class
+supermarket7Rmart\ManageContact.class
+supermarket7Rmart\AdminUserSearch.class
+supermarket7Rmart\AdminUser_Page.class
+supermarket7Rmart\ManageCategory.class
+constant\Constant.class
+utilities\FileUploadUtility.class
+utilities\WaitUtility.class

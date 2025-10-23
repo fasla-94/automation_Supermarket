@@ -1,0 +1,11 @@
+test_7RMartSuperMarket\AdminUserPage_Test.class
+test_7RMartSuperMarket\ManageContact_Test.class
+test_7RMartSuperMarket\Base_Test.class
+test_7RMartSuperMarket\ManageFooter_Test.class
+retry\Retry_class.class
+test_7RMartSuperMarket\AdminUserSearchPage_Test.class
+test_7RMartSuperMarket\ManageNews_Test.class
+generate_report\Listeners.class
+test_7RMartSuperMarket\HomePage_Test.class
+test_7RMartSuperMarket\ManageCategory_Test.class
+test_7RMartSuperMarket\Login_Page_Test.class
